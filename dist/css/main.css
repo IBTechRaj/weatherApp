@@ -7,7 +7,9 @@
   --darkBlue: #073b4c;
 }
 body {
-  background: var(--mainYellow);
+  /* background-color    : var(--mainYellow); */
+  background-repeat: no-repeat;
+  background-size: cover;
   color: var(--mainBlack);
 }
 .card {
@@ -59,3 +61,15 @@ input:focus {
   display: inline-block;
 }
 .pointer {cursor: pointer;}
+#cityTemp {
+  font-size: 3rem;
+}
+#cityHumidity {
+  font-size: 3rem ;
+}
+#cityTempMin {
+  font-size: 3rem ;
+}
+#cityTempMax {
+  font-size: 3rem ;
+}
