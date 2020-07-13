@@ -11,7 +11,7 @@ This App retrieves weather data using weather API and displays the weather infor
 # Setup
 To run the project:
 
-Clone the repository: https://github.com/IBTechRaj/rajWeatherApp
+Clone the repository: https://github.com/IBTechRaj/weatherApp
 Run npm install. It will install all the dependencies required by the project
 Run npm start to start the development server. It will automatically open the page in your default browser.
 
@@ -19,9 +19,10 @@ Run npm start to start the development server. It will automatically open the pa
 You can see live demo [ here ](https://ibtechraj.github.io/weatherApp/)
 
 # Screen Shots
-![Game screen shot 1](/images/weather1.png)
+![weather screen shot 1](/images/weather1.png)
 
-![Game screen shot 2](/images/weather2.png)
+![weather screen shot 2](/images/weather2.png)
+
 # Contribute
 Feel free to contribute if you want to make it better.
 
