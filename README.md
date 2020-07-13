@@ -19,9 +19,9 @@ Run npm start to start the development server. It will automatically open the pa
 You can see live demo [ here ](https://ibtechraj.github.io/weatherApp/)
 
 # Screen Shots
-![weather screen shot 1](/images/weather1.png)
+![weather screen shot 1](/images/weather1.PNG)
 
-![weather screen shot 2](/images/weather2.png)
+![weather screen shot 2](/images/weather2.PNG)
 
 # Contribute
 Feel free to contribute if you want to make it better.
