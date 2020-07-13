@@ -37,8 +37,6 @@ class Display {
     this.cityWeather = document.getElementById("cityWeather");
     this.cityWeatherDesc = document.getElementById("cityWeatherDesc");
     this.cityHumidity = document.getElementById("cityHumidity");
-    // this.cityDate = document.getElementById("cityDate");
-    // this.cityTime = document.getElementById("cityTime");
   }
 
   showWeather(data) {
