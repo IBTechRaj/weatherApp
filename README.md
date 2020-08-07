@@ -1,12 +1,12 @@
 # Weather App
 
-This App retrieves weather data using weather API and displays the weather information of any major city, depending on the user's choice.
+A weather app that pulls from the OpenWeatherMap API to allow users to search for and view the forecast in cities worldwide. Built with JavaScript.
 
 # Technologies
 
--HTML/CSS/Javascript
--Webpack
--Promises
+- HTML/CSS/Javascript
+- Webpack
+- Promises
 
 # Setup
 
