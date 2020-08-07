@@ -5,6 +5,7 @@ A weather app that pulls from the OpenWeatherMap API to allow users to search fo
 # Technologies
 
 - HTML/CSS/Javascript
+- Bootstrap
 - Webpack
 - Promises
 
